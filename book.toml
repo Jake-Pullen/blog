@@ -1,0 +1,5 @@
+[book]
+authors = ["Jake Pullen"]
+language = "en"
+src = "src"
+title = "Blog"
